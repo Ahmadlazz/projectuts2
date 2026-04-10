@@ -1,0 +1,72 @@
+##Flowchart dari sistem browser history
+Start
+  │
+  ▼
+User membuka program
+  │
+  ▼
+Tampilkan Menu
+(Visit Website / Back / Forward / History / Exit)
+  │
+  ▼
+User memilih menu
+  │
+  ├── Visit Website
+  │       │
+  │       ▼
+  │   Simpan website ke Stack dan Queue
+  │       │
+  │       ▼
+  │   Tampilkan halaman website
+  │
+  ├── Back
+  │       │
+  │       ▼
+  │   Ambil halaman sebelumnya dari Stack
+  │
+  ├── Forward
+  │       │
+  │       ▼
+  │   Ambil halaman berikutnya dari Stack
+  │
+  ├── History
+  │       │
+  │       ▼
+  │   Tampilkan daftar website dari Queue
+  │
+  └── Exit
+          │
+          ▼
+        End
+##Diagram cara kerja struktur data
+#Stack(back&Forward)
+Stack bekerja dengan konsep LIFO(Last in first out)
+Contoh:
+ketika user mencari:
+1.instagram
+2.youtube
+3.spotify
+maka isi stack:
+Top
+|
+1.Spotify
+2.Youtube
+3.Instagram
+Dan ketika user menekan tombol back, maka halaman terakhir yang dibuka yang keluar terlebih dahulu
+contoh:
+Spotify →  Youtube
+Youtube → Instagram
+Ini menunjukkan bahwa program terakhir yang dibuka akan diproses terlebih dahulu, sesuai ketentuan LIFO
+#Queve
+Queve juga bekerja dengan konsep FIFO(First in first out)
+Contoh history browsing:
+1.Instagram
+2.Youtube
+3.Spotify
+4.Google
+Maka urutan queve:
+Front → Instagram → Youtube → Spotify → Google ← Rear
+Yang berarti:
+-website pertama dikunjungi tetap berada di urutan pertama
+-website baru masuk di bagian belakang
+
