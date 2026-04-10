@@ -159,6 +159,11 @@ Menu keempat adalah inti dari project ini yaitu history browser, menu ini ketika
 Menu kelima ini adalah keluar, menu ini ditunjukan sebagai perintah untuk sistemnya berhenti untuk bekerja, karena jika kita tidak memerintahkan sistemnya untuk keluar maka sistem tersebut akan terus berjalan.
 <img width="1306" height="159" alt="image" src="https://github.com/user-attachments/assets/d9dbd8ae-7395-4cba-aef8-1475a65360fa" />
 
+Diagram_Flowchart yang kami gunakan
+<img width="990" height="589" alt="image" src="https://github.com/user-attachments/assets/5faa8f1a-2452-431c-8895-b53d4eea0045" />
+<img width="998" height="607" alt="image" src="https://github.com/user-attachments/assets/4fb3ff8a-5ca2-4c1d-99bc-ddc97ff8cae7" />
+
+
 
 
 Untuk yang terakhir Judul dari refrensi yang kami gunakan dari project
