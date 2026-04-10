@@ -3,6 +3,10 @@ Nama_NIM_Github:
 
 Ahmad Paesoel_2501010143_Ahmadlazz
 
+Ida Bagus Nyoman Adi Tresna Wijaya_2501010111_gusmanwijaya
+
+Kadek Ega Dwi Putra_2501010100_Inazura
+
 
 
 Studi kasus yang diambil:
