@@ -162,6 +162,8 @@ Menu kelima ini adalah keluar, menu ini ditunjukan sebagai perintah untuk sistem
 Diagram_Flowchart yang kami gunakan
 <img width="990" height="589" alt="image" src="https://github.com/user-attachments/assets/5faa8f1a-2452-431c-8895-b53d4eea0045" />
 <img width="1001" height="253" alt="image" src="https://github.com/user-attachments/assets/de3085e1-eb4c-4d8d-b76d-1f3d15ace94b" />
+<img width="999" height="226" alt="image" src="https://github.com/user-attachments/assets/d44404ca-bd5c-4218-9daa-c842bd9c0952" />
+
 
 
 
