@@ -9,10 +9,10 @@ Kadek Ega Dwi Putra_2501010100_Inazura
 
 
 
-Studi kasus yang diambil:
+Studi kasus yang di ambil:
 Sistem History Browser
 
-A.Rumusan masalah dan solusi 
+A.Rumusan masalah dan Solusi 
 
 1.Bagaimana peran struktur data queue dalam menyimpan dan menampilkan riwayat kunjungan website pada sistem browser history?
 
