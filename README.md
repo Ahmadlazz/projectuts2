@@ -111,11 +111,11 @@ Array adalah struktur data yang menyimpan elemen secara berurutan dalam satu blo
 
 Kelebihan penggunaan array antara lain:
 
--akses data lebih cepat menggunakan indeks
+• akses data lebih cepat menggunakan indeks
 
--implementasi lebih sederhana
+• implementasi lebih sederhana
 
--mudah digunakan dalam pemrograman
+• mudah digunakan dalam pemrograman
 
 Dalam sistem browser history yang dibuat, array digunakan untuk menyimpan data history serta mengimplementasikan struktur data stack dan queue.
 
@@ -125,11 +125,11 @@ Linked list adalah struktur data yang terdiri dari beberapa node yang saling ter
 
 Kelebihan linked list antara lain:
 
--ukuran penyimpanan lebih fleksibel
+• ukuran penyimpanan lebih fleksibel
 
--mudah menambahkan atau menghapus data
+• mudah menambahkan atau menghapus data
 
--tidak memerlukan ukuran tetap seperti array
+• tidak memerlukan ukuran tetap seperti array
 
 Linked list sering digunakan dalam implementasi struktur data yang memerlukan penambahan dan penghapusan data secara dinamis.
 
