@@ -111,7 +111,7 @@ Array adalah struktur data yang menyimpan elemen secara berurutan dalam satu blo
 
 Kelebihan penggunaan array antara lain:
 
-• akses data lebih cepat menggunakan indeks
+• akses data lebih cepat menggunakan       indeks
 
 • implementasi lebih sederhana
 
@@ -129,7 +129,7 @@ Kelebihan linked list antara lain:
 
 • mudah menambahkan atau menghapus data
 
-• tidak memerlukan ukuran tetap seperti array
+• tidak memerlukan ukuran tetap seperti    array
 
 Linked list sering digunakan dalam implementasi struktur data yang memerlukan penambahan dan penghapusan data secara dinamis.
 
