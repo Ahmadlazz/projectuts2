@@ -12,30 +12,30 @@ Kadek Ega Dwi Putra_2501010100_Inazura
 Studi kasus yang di ambil:
 Sistem History Browser
 
-A.Rumusan masalah dan Solusi 
+A. Rumusan masalah dan Solusi 
 
-1.Bagaimana peran struktur data queue dalam menyimpan dan menampilkan riwayat kunjungan website pada sistem browser history?
+1. Bagaimana peran struktur data queue dalam menyimpan dan menampilkan riwayat kunjungan website pada sistem browser history?
 
-2.Bagaimana penggunaan struktur data array dalam menyimpan dan mengelola data history pada sistem browser?
+2. Bagaimana penggunaan struktur data array dalam menyimpan dan mengelola data history pada sistem browser?
 
-3.Bagaimana sistem browser history yang dirancang dapat membantu pengguna dalam mengelola aktivitas penelusuran internet?
+3. Bagaimana sistem browser history yang dirancang dapat membantu pengguna dalam mengelola aktivitas penelusuran internet?
 
 Solusi yang ditawarkan oleh sistem
 
-1.Pada konsep struktur data, queve bekerja dengan prinsip FIFO (First in First out), yaitu data pertama yang diakses maka data tersebut yang diproses terlebih dahulu.
+1. Pada konsep struktur data, queve bekerja dengan prinsip FIFO (First in First out), yaitu data pertama yang diakses maka data tersebut yang diproses terlebih dahulu.
 Pada studi kasus jurnal yang saya gunakan ini adalah, sistem yang pernah dikunjungi akan disimpan oleh sistem dan jika pengguna ingin mencari pencariannya yang sebelumnya maka ia dapat melihatnya melalui fitur history pada browser, dan pada fitur tersebut pencariannya sudah teratur dan disimpan secara berurutan sesuai yang pernah dicari pengguna.
 Dalam sistem browser history, setiap website yang dikunjungi oleh pengguna akan ditambahkan ke dalam daftar history. Website tersebut disimpan secara berurutan sesuai dengan waktu kunjungan. Dengan menggunakan queue, sistem dapat menampilkan riwayat website secara terstruktur mulai dari halaman yang pertama hingga halaman yang terakhir dikunjungi.
 
 Dengan ini pengguna lebih mudah untuk mengakses situs yang sebelumnya ia kunjungi tanpa khawatir tidak disimpan.
 
-2.Struktur data array digunakan dalam sistem browser history untuk menyimpan dan mengelola data halaman website yang dikunjungi oleh pengguna. Dalam bahasa pemrograman Python, array direpresentasikan menggunakan list, yang memungkinkan penyimpanan data secara berurutan.
+2. Struktur data array digunakan dalam sistem browser history untuk menyimpan dan mengelola data halaman website yang dikunjungi oleh pengguna. Dalam bahasa pemrograman Python, array direpresentasikan menggunakan list, yang memungkinkan penyimpanan data secara berurutan.
 Penggunaan array memungkinkan sistem untuk menyimpan data website secara berurutan sesuai dengan urutan kunjungan. Selain itu, array juga mempermudah proses pengolahan data seperti penambahan dan penghapusan data dalam sistem.
 
 Dalam implementasi program browser history, array digunakan sebagai dasar untuk membangun struktur data stack dan queue yang berfungsi dalam pengelolaan navigasi halaman serta penyimpanan riwayat browsing pengguna.
 
 Dengan menggunakan array, sistem dapat mengelola data website secara lebih sederhana dan terstruktur.
 
-3.Sistem browser history yang dirancang bertujuan untuk membantu pengguna dalam mengelola aktivitas penelusuran internet dengan mencatat setiap halaman website yang pernah dikunjungi.
+3. Sistem browser history yang dirancang bertujuan untuk membantu pengguna dalam mengelola aktivitas penelusuran internet dengan mencatat setiap halaman website yang pernah dikunjungi.
 
 Dalam sistem ini digunakan struktur data stack dan queue untuk mengatur navigasi serta penyimpanan riwayat browsing. Stack digunakan untuk mengelola fitur back dan forward pada browser dengan menggunakan konsep LIFO (Last In First Out), sedangkan queue digunakan untuk menyimpan daftar website yang pernah dikunjungi dengan konsep FIFO (First In First Out).
 
@@ -43,7 +43,7 @@ Dengan adanya sistem ini, pengguna dapat kembali ke halaman sebelumnya, berpinda
 
 Dengan demikian, sistem browser history dapat membantu meningkatkan efisiensi dan kenyamanan pengguna dalam melakukan aktivitas penelusuran di internet.
 
-B.Landasan Teori
+B. Landasan Teori
 
 1. Pengertian Struktur Data
 
@@ -173,8 +173,8 @@ Untuk yang terakhir Judul dari refrensi yang kami gunakan dari project
 
 Pada studi kasus ini kami menggunakan 3 jurnal sebagai refrensi
 
-1.Arlina, K. A. A., & Astuti, Y. Pemanfaatan History pada Browser Komputer untuk Menentukan Pemilihan Website atau Blog pada SEO Indonesia.
+1. Arlina, K. A. A., & Astuti, Y. Pemanfaatan History pada Browser Komputer untuk Menentukan Pemilihan Website atau Blog pada SEO Indonesia.
 
-2.Fitra, M. R. A., Pratama, E., Al-Kautsar, M. Z., Harahap, F. A., & Ramadhani, F. (2025). Implementasi Struktur Data Stack untuk Pengelolaan Riwayat Penelusuran dalam Bentuk Ekstensi Web Browser Chrome. Indonesian Journal of Education and Development Research (IJEDR).
+2. Fitra, M. R. A., Pratama, E., Al-Kautsar, M. Z., Harahap, F. A., & Ramadhani, F. (2025). Implementasi Struktur Data Stack untuk Pengelolaan Riwayat Penelusuran dalam Bentuk Ekstensi Web Browser Chrome. Indonesian Journal of Education and Development Research (IJEDR).
 
-3.Syahputra, A. K. Internet dan Website: Search Engine dan Web Browser. STMIK Royal Kisaran.
+3. Syahputra, A. K. Internet dan Website: Search Engine dan Web Browser. STMIK Royal Kisaran.
